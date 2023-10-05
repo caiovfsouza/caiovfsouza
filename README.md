@@ -27,4 +27,3 @@
   <a href="http://lattes.cnpq.br/4117227128936036" target="_blank"><img src="https://img.shields.io/badge/Lattes-2E5469?style=for-the-badge&logo=htmlacademy&logoColor=white"></a>
 <a href="https://wa.me/5581981137388"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
