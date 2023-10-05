@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/caiovfsouza" >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovfsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovfsouza&layout=compact&langs_counts=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovfsouza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovfsouza&layout=compact&langs_counts=16&theme=merko"/>
 </div>
 
   ##
