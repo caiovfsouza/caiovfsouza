@@ -1,4 +1,4 @@
-<img width="100%" src="https://giffiles.alphacoders.com/143/14347.gif">
+<img width="100%" src="https://static.wixstatic.com/media/3279ec_d46e80f7451a486f8d2bd8754eb7850a~mv2.gif">
 
 ## Oi, eu sou o Caio! 👋
 <p>
