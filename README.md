@@ -1,3 +1,5 @@
+<img width="100%" src="https://giffiles.alphacoders.com/143/14347.gif">
+
 ## Oi, eu sou o Caio! 👋
 <p>
 <div>
