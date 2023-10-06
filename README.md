@@ -26,8 +26,8 @@
 <p>
 <div align="center">
 <a href="https://github.com/caiovfsouza" >
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiovfsouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovfsouza&layout=compact&langs_counts=16&theme=highcontrast"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caiovfsouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovfsouza&layout=compact&langs_counts=16&theme=highcontrast"/>
 </div>
 </p>
   
