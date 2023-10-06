@@ -2,7 +2,7 @@
 </p>
 
 <div align="center">
-<h3>Oi, eu sou o Caio! 👋</h3>
+<h3>Oi, eu sou o Caio!</h3>
 </div>
 
 <p>
