@@ -17,9 +17,9 @@
 <div align="center">
 <p>
   
- 👨🏻‍💻 Desenvolvedor Back-End pela [Softex Pernambuco](https://softexpe.org.br).
-
- 🎓 Graduado em Química-Bacharelado pela [UFRN](https://ufrn.br).
+ 👨🏻‍💻 Desenvolvedor Back-End pela [Softex Pernambuco](https://softexpe.org.br) em andamento.
+ 
+ 🎓 Graduado em Química - Bacharelado pela [UFRN](https://ufrn.br).
 </p>
 </div>
 
