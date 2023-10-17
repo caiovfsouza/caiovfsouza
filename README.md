@@ -35,6 +35,12 @@
  ![snake gif](https://github.com/caiovfsouza/caiovfsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
+<p> <img width="20%" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
+</p>
+</div>
+
+
+<div align="center">
 <p><img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Vini-CSS" height="32" width="28" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
