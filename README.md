@@ -42,10 +42,9 @@
 
 <div align="center">
 <p><img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Caio-Express" height="30" width="40" src="https://icons8.com.br/icon/kg46nzoJrmTR/expresso-js">
 <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Vini-CSS" height="32" width="28" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-<img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Caio-Node" height="32" width="28" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
 </p>
 </div>
 
