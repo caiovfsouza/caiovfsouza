@@ -42,7 +42,7 @@
 
 <div align="center">
 <p><img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Caio-Node" height="112" width="108" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg">
+<img align="center" alt="Caio-Node" height="32" width="28" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
 <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </p>
 </div>
