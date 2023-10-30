@@ -34,11 +34,6 @@
 
  ![snake gif](https://github.com/caiovfsouza/caiovfsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-<p> <img width="20%" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
-</p>
-</div>
-
 
 <div align="center">
 <p><img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,7 +43,7 @@
 </div>
 
 ##
-<img width="100%" src="https://media.tenor.com/gQJccV_T9QoAAAAC/bh187-minions.gif">
+
 
  
 
