@@ -11,7 +11,7 @@
   <a href = "mailto:caiovfsouza88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/4117227128936036" target="_blank"><img src="https://img.shields.io/badge/Lattes-2E5469?style=for-the-badge&logo=htmlacademy&logoColor=white"></a>
 <a href="https://wa.me/5581981137388"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://discord.gg/1126872163476062218"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a/>
+  <a href="https://discord.gg/YwjegJ2h"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a/>
 </div>
 </p>
 
