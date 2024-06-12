@@ -7,11 +7,11 @@
 
 <p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/caiovfsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caiovfsouza88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/4117227128936036" target="_blank"><img src="https://img.shields.io/badge/Lattes-2E5469?style=for-the-badge&logo=htmlacademy&logoColor=white"></a>
-<a href="https://wa.me/5581981137388"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://discord.gg/YwjegJ2h"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a/>
+<a href="https://www.linkedin.com/in/caiovfsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:caiovfsouza88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="http://lattes.cnpq.br/4117227128936036" target="_blank"><img src="https://img.shields.io/badge/Lattes-2E5469?style=flat-square&logo=htmlacademy&logoColor=white"></a>
+<a href="https://wa.me/5581981137388"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="https://discord.gg/YwjegJ2h"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"><a/>
 </div>
 </p>
 
@@ -37,15 +37,18 @@
 
 
 <div align="center">
-<img src = "https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge">
-<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<br>
-<img src = "https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
-<br>
-<img src = "https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A">
-<img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
+<img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square">
+<img src = "https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square">
+<img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square">
+
+
 </div>
 
 ##
