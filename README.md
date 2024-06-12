@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square">
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square">
+<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square">
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square">
 <img src = "https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square">
 <img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square">
