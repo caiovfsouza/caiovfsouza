@@ -34,7 +34,7 @@
 
 <div align="center">  
   
-<img width="40%" src="https://static.wixstatic.com/media/3279ec_9e690641cb1b48e1a76bb4d3ddb14f9f~mv2.gif">
+<img width="100%" src="https://static.wixstatic.com/media/3279ec_9e690641cb1b48e1a76bb4d3ddb14f9f~mv2.gif">
 
 </div>
 
