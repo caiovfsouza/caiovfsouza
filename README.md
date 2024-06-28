@@ -32,12 +32,6 @@
 </div>
 </p>
 
-<div align="center">  
-  
-<img max-width="40%" src="https://static.wixstatic.com/media/3279ec_9e690641cb1b48e1a76bb4d3ddb14f9f~mv2.gif">
-
-</div>
-
 ![snake gif](https://github.com/caiovfsouza/caiovfsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
