@@ -32,8 +32,8 @@
 </div>
 </p>
 
-![snake gif](https://githubusercontent.com)
-<!--![snake gif](https://github.com/caiovfsouza/caiovfsouza/blob/output/github-contribution-grid-snake-dark.svg)-->
+
+[snake gif](https://github.com/caiovfsouza/caiovfsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
